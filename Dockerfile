@@ -8,5 +8,5 @@ RUN cd /
 RUN pip3 install -U pip && pip3 install -U -r requirements.txt
 RUN mkdir /fwdbot
 WORKDIR /fwdbot
-COPY /ultra-Forword-Bot
+COPY /Ultra-Forword-Bot
 CMD ["/bin/bash", "/start.sh"] 
