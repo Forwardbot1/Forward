@@ -6,8 +6,7 @@ import os
 from config import Config
 
 class Translation(object):
-  PIC = """https://mangandi-2-0.onrender.com/oY0q.JPG"""
-  START_TXT = """<b>ʜɪ {}
+  START_TXT = """https://mangandi-2-0.onrender.com/oY0q.JPG <b>ʜɪ {}
 
 ɪ'ᴍ ᴀ ᴀᴅᴠᴀɴᴄᴇᴅ ᴀᴜᴛᴏ ꜰᴏʀᴡᴀʀᴅ ʙᴏᴛ
 ɪ ᴄᴀɴ ꜰᴏʀᴡᴀʀᴅ ᴀʟʟ ᴍᴇssᴀɢᴇ ꜰʀᴏᴍ ᴏɴᴇ ᴄʜᴀɴɴᴇʟ ᴛᴏ ᴀɴᴏᴛʜᴇʀ ᴄʜᴀɴɴᴇʟ
@@ -15,11 +14,11 @@ class Translation(object):
 ᴄʟɪᴄᴋ ʜᴇʟᴘ ʙᴜᴛᴛᴏɴ ᴛᴏ ᴋɴᴏᴡ ᴍᴏʀᴇ ᴀʙᴏᴜᴛ ᴍᴇ</b>"""
 
 
-  DONATE_TXT = """<b><i>If you liked me ❤️. consider make a donation to support my developer 👦
+  DONATE_TXT = """https://mangandi-2-0.onrender.com/oY0q.JPG <b><i>If you liked me ❤️. consider make a donation to support my developer 👦
 
 UPI ID - </i></b><code>pay-to-yash-singh@fam</code>"""
 
-  HELP_TXT = """<b><u>🔆 ʜᴇʟᴘ</b></u>
+  HELP_TXT = """https://mangandi-2-0.onrender.com/oY0q.JPG <b><u>🔆 ʜᴇʟᴘ</b></u>
 
 <u>**📚 Available Commands:**</u>
 
@@ -45,7 +44,7 @@ UPI ID - </i></b><code>pay-to-yash-singh@fam</code>"""
 #This Repo Is By @Silicon_Official 
 # For Any Kind Of Error Ask Us In Support Group @Silicon_Botz
   
-  HOW_USE_TXT = """<b><u>⚠️ Before Forwarding:</b></u>
+  HOW_USE_TXT = """https://mangandi-2-0.onrender.com/oY0q.JPG <b><u>⚠️ Before Forwarding:</b></u>
 <b>► __add a bot or userbot__
 ► __add atleast one to channel__ `(your bot/userbot must be admin in there)`
 ► __You can add chats or bots by using /settings__
