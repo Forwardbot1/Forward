@@ -6,6 +6,7 @@ import os
 from config import Config
 
 class Translation(object):
+  PIC = """https://mangandi-2-0.onrender.com/oY0q.JPG"""
   START_TXT = """<b>ʜɪ {}
 
 ɪ'ᴍ ᴀ ᴀᴅᴠᴀɴᴄᴇᴅ ᴀᴜᴛᴏ ꜰᴏʀᴡᴀʀᴅ ʙᴏᴛ
